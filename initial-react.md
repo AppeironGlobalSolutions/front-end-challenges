@@ -23,3 +23,4 @@ Build a simple to-do list application using React and the React Redux Toolkit. T
 -   Persist the list in local storage so that it is not lost when the page is refreshed
 -   Use the React Redux Toolkit's `createAsyncThunk` function to make an API call to a to-do list backend and save the list to the server when items are added, removed, or completed
 -   Use Material-UI for styles, inputs, and more
+-   Use Formik and Yup for form validations, with error and help text
