@@ -1,7 +1,7 @@
 # Weather Forecast Application
 ============================
 
-Welcome to the ultimate weather forecast application! In this challenge, you'll build an application that allows users to see the current weather for any location around the world. You'll use the OpenWeatherMap API to retrieve the weather data, and use Axios to make the API call. You'll also use a library like React Bootstrap or Material UI to create a visually appealing user interface that displays the weather data in a clear and concise way.
+Welcome to the ultimate weather forecast application! In this challenge, you'll build an application that allows users to see the current weather for any location around the world. You'll use the OpenWeatherMap API to retrieve the weather data, and use Axios to make the API call. You'll also use a library like Material UI to create a visually appealing user interface that displays the weather data in a clear and concise way.
 
 ## Requirements
 ------------
@@ -20,7 +20,7 @@ To complete this challenge, your application should meet the following requireme
 
 6.  Use Axios to make API calls to the OpenWeatherMap API to retrieve the weather data.
 
-7.  Use a library like React Material UI to create a visually appealing user interface that displays the weather data in a clear and concise way.
+7.  Use a library like Material UI to create a visually appealing user interface that displays the weather data in a clear and concise way.
 
 ## Bonus Features
 --------------
