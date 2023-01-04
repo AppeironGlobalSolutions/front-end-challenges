@@ -16,7 +16,7 @@ To complete this challenge, your application should meet the following requireme
 
 4.  Use React Router to create routes for different pages in the application, such as a home page, a search page, and a forecast page.
 
-5.  Use React Redux to manage the application's state, including storing the current location and the forecast data.
+5.  Use React Redux Toolkit to manage the application's state, including storing the current location and the forecast data.
 
 6.  Use Axios to make API calls to the OpenWeatherMap API to retrieve the weather data.
 
