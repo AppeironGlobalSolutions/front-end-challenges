@@ -106,7 +106,7 @@ interface ConflictCheck {
 
 ---
 
-## 4) CORE Requirements (target: ~2.5 hours)
+## 4) CORE Requirements (target: ~4 hours)
 
 ### 4.1 Timeline Grid Rendering
 - **Two-axis layout**:
